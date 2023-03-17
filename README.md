@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @zeeja
-- 👀 I’m interested in combaining reneweable energy and computer scinece together.
-- 🌱 I’m currently pursuing my masters in Renewable Energy and Management 
-- 💞️ I’m looking to collaborate on Data science, IoT, Bifacial solar panels related projects
-- 📫 How to reach me - abdulajeez.fns@gmail.com
-<!---
-zeeja/zeeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+👋 Hi, I'm @zeeja
+
+🔧 I'm passionate about making an impact in the field of renewable energy. With a strong background in mechanical engineering, management, and renewable energy, I also have keen interests in data science, artificial intelligence, IoT, and programming.
+
+📚 Currently, I am pursuing my master's degree in Renewable Energy and Management at TH Köln.
+
+🤝 I am eager to collaborate on mechanical and renewable energy projects to drive sustainable innovation and contribute to a cleaner future.
+
+🌐 You can find my portfolio and work at (https://github.com/zeeja)
+
+📨 Feel free to reach out to me via email: abdulajeez.fns@gmail.com or connect with me on [LinkedIn: https://www.linkedin.com/in/abdul-ajeez-b6b9a6142/, Twitter: https://twitter.com/azeez_ren].
+
+Let's work together to make a difference in the renewable energy sector! 💡
 --->
