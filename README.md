@@ -2,8 +2,6 @@
 
 🔧 I'm passionate about making an impact in the field of renewable energy. With a strong background in mechanical engineering, management, and renewable energy, I also have keen interests in E-mobility, data science, artificial intelligence, IoT, and programming.
 
-📚 Currently, I am pursuing my master's degree in Renewable Energy and Management at TH Köln.
-
 🤝 I am eager to collaborate on mechanical and renewable energy projects to drive sustainable innovation and contribute to a cleaner future.
 
 🌐 You can find my portfolio and work at (https://github.com/zeeja)
